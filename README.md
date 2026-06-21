@@ -15,7 +15,6 @@ and team transformation for mid-market SaaS.
 Recent work:
 
 - **[Software of You](https://github.com/kmorebetter/better-software-of-you)** — AI-powered personal platform. Contacts, projects, everything local, everything yours.
-- **Kara** — document automation and filing system for a mid-market casting company.
 - **[Second Brain](https://github.com/kmorebetter/secondbrain)** — Karpathy-style compiled knowledge base with a two-author rule. Agents ingest at speed; your voice stays yours.
 - **[skill-miner](https://github.com/kmorebetter/skill-miner)** — Claude skill that mines your connected tools for repeatable work and drafts new skills automatically.
 
